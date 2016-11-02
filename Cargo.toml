@@ -1,0 +1,11 @@
+[package]
+name = "usmack"
+description = "A user-space implementation of the Simplified Mandatory Access Control Kernel"
+version = "0.1.0"
+authors = ["Jonathan Creekmore <jonathan@thecreekmores.org>"]
+readme = "README.md"
+license = "MIT"
+license-file = "LICENSE"
+keywords = ["security", "MAC", "access", "control"]
+
+[dependencies]
