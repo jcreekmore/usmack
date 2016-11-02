@@ -5,7 +5,7 @@ version = "0.1.0"
 authors = ["Jonathan Creekmore <jonathan@thecreekmores.org>"]
 readme = "README.md"
 license = "MIT"
-license-file = "LICENSE"
 keywords = ["security", "MAC", "access", "control"]
 
 [dependencies]
+error-chain = "0.5"
